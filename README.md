@@ -1,9 +1,9 @@
 # NoSQL Workout Tracker
 
-****
+**This project is a fullstack browser application that utlizies Node.Js, MongoDB, Mongoose, and Express to create a fitness workout logger that takes in new/existing excerises. It utilizes MongoDB with Mongoose to log your workouts to the database which can be analyzed in the app's dashboard.**
 
-![]()
-![]()
+![Fitness Tracker Gif](./images/fittrack.gif)
+
 
 ## Built With
 
@@ -23,13 +23,12 @@ Steps to install application:
 2. Run npm install
 3. Run npm run seed in command line to seed the database.
 4. Run NPM Start to turn on your server
-5. Server will be running locally on your machine, or you can visit live deployed Heroku Link provided below.
+5. Server will be running locally on your machine
 6. Alternative is to just visit the Heroku Deployed link to see the application.
 
-* []()
+* [Heroku Deployed](https://obscure-eyrie-11833.herokuapp.com/)
 
-
-## Authors
+## Author
 
 * **DEREK BANISTER** 
 

@@ -26,3 +26,5 @@ require("./routes/apiRoutes")(app);
 app.listen(PORT, () => {
     console.log(`App running on port ${PORT}!`);
 });
+
+//reference heroku logs/vars if I run into an issue with mongodb
